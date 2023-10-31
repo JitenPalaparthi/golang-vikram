@@ -4,3 +4,9 @@
 ```
 go mod init <name>
 ```
+
+## keywords
+
+- there are 25 keywords in Golang
+
+- pacakge, import, var, const, return, break , if,else,fallthrough, switch,default
