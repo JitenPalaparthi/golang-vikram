@@ -5,8 +5,23 @@
 go mod init <name>
 ```
 
+# build 
+
+```
+go build -o app main.go
+```
+# stripe down the build
+
+```
+go build -ldflags "-w" -o app_striped main.go
+```
+
 ## keywords
 
 - there are 25 keywords in Golang
 
-- pacakge, import, var, const, return, break , if,else,fallthrough, switch,default
+- package, import, var, const,case, return, break ,if,else,fallthrough, switch,default
+
+## builtin funcs
+
+- print, println, len 
