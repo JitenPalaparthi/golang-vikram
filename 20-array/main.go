@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	var arr1 [10]int
+	var arr1 [20]int
 	fmt.Println(arr1)
 	// assign random numbers to an array
 	for i := 0; i <= len(arr1)-1; i++ {
