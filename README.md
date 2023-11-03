@@ -24,4 +24,4 @@ go build -ldflags "-w" -o app_striped main.go
 
 ## builtin funcs
 
-- print, println, len 
+- print, println, len , cap, make, append
