@@ -1,0 +1,3 @@
+- create a slice and assign random values to it
+- write a function that returns the biggest and the smallest values of the slice
+- func getBAndS(slice []int)(big int, small int)

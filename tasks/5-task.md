@@ -1,0 +1,4 @@
+- create and instantiate slice
+- fill it with random numbers
+- find the second biggest number in the slice
+- 12,45,34,34,56,76,3,456,87,98,65,45 -> 98 is the answer
