@@ -20,8 +20,7 @@ go build -ldflags "-w" -o app_striped main.go
 
 - there are 25 keywords in Golang
 
-- package, import, var, const,case, return, break ,if,else,fallthrough, switch,default
+- break,case,const,continue,default,else,fallthrough,for,func,goto,if,import,map,package,range,return,switch,var 
 
 ## builtin funcs
-
-- print, println, len , cap, make, append
+- append, cap, clear, copy, delete, len, print, println
