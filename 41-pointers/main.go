@@ -24,6 +24,10 @@ func main() {
 	fmt.Println("ptr2:", ptr2)
 	fmt.Println("Value at ptr2:", *ptr2)
 
+	// var ptr3 *int
+	// *ptr3 = *ptr3 + 1
+	// fmt.Println("ptr3:", *ptr3)
+
 }
 
 // If there is a pointer , it must contain the address of a variable
